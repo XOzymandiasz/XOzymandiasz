@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=XOzymandiasz)
+![Stats](https://github-readme-stats.vercel.app/api?username=XOzymandiasz&show_icons=true&theme=dark)
 <!--
 **XOzymandiasz/XOzymandiasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
